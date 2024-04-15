@@ -4,7 +4,7 @@
 
 ### Understanding Urban Depopulation
 ##### An analysis of shrinking cities in the US with machine learning approaches 
-Group Project for for * *90-803 Machine Learning Foundations in Python* *
+Group Project for for *90-803 Machine Learning Foundations in Python*
 
 --
 
