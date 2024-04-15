@@ -9,7 +9,7 @@
 
 ### Authors
 
-**Chi-Shiun Tsai** // *chishiut@andrew.cmu.edu* // Github: dcstsai
+**David Tsai** // *chishiut@andrew.cmu.edu* // Github: dcstsai
 
 **Colton Lapp** // *cglapp@andrew.cmu.edu* // Github: colton-lapp
 
